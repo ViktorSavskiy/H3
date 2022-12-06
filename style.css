@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    background: #FFFFFF;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.navigation {
+    margin-top: 51px;
+
+}
+
+.logo-top {
+    margin-top: 45px;
+}
+
+main {
+    margin-top: 96px;
+    margin-bottom: 162px;
+}
+
+.H1 {
+    margin-bottom: 17px;
+}
+
+.par {
+    margin-bottom: 52px;
+}
+
+.btn {
+    margin-left: 36px;
+    margin-top: 15px;
+    margin-bottom: 16px;
+    margin-right: 35px;
+}
