@@ -21,26 +21,27 @@ img {
     margin: 0 auto;
 }
 
-.navigation {
-    margin-top: 51px;
-
-}
-
-.logo-top {
-    margin-top: 45px;
-}
-
 main {
-    margin-top: 96px;
+    margin-top: 84px;
     margin-bottom: 162px;
 }
 
 .H1 {
     margin-bottom: 17px;
+    font-family: 'Gilroy-Bold';
+    font-size: 60px;
+    line-height: 70px;
+
+    color: #000000;
 }
 
 .par {
-    margin-bottom: 52px;
+    margin-bottom: 37px;
+    font-family: 'Gilroy-Medium';
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #888888;
 }
 
 .btn {
@@ -48,4 +49,49 @@ main {
     margin-top: 15px;
     margin-bottom: 16px;
     margin-right: 35px;
+    background: #F25822;
+    border-radius: 50px;
+
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+    display: flex;
+    gap: 72px;
+
+}
+
+header {
+    margin-top: 40px;
+}
+
+.logo-footer {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.content {
+    display: flex;
+    gap: 50px;
+}
+
+.buttons {
+    display: flex;
+    gap: 72px;
+}
+
+.logo-footer {
+    display: flex;
+    gap: 48px;
+}
+
+.heigh {
+    display: flex;
+    gap: 500px;
 }
